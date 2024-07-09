@@ -13,11 +13,11 @@ The eQTL of each cell type or condition was estimated using a linear model which
 
 ## 1.3 Estimation of shared signals ##
 
-We used MASH (MASHR) to estimate the shared eQTL signals between each pair of eQTL summary statistics.
+MASH was applied to estimate the shared eQTL signals between each pair of eQTL summary statistics.
 
 ## 1.4 Colocalization analysis ##
 
-COLOC was applied to identify the colocalized genes between sceQTL and clinical diseases. 
+COLOC was used to identify the colocalized genes between sceQTL and clinical diseases. 
 
 ## 1.5 Single-cell Co-expression Analysis ##
 
