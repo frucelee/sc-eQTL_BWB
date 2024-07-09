@@ -27,6 +27,6 @@ To determine the co-expression profiles we used CS-CORE, which is powered by WGC
 
 To validate the identified eQTL, we checked their effect size in the public GTEx dataset.
 
-##1.7 Overlapping with epigenome##
+## 1.7 Overlapping with epigenome ##
 
 The publicly available dataset scATAC-seq from the steady state and stimulated by LPS was employed.
