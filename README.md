@@ -1,6 +1,8 @@
 # sceQTL_LPS_BWB
 Code for the study: Single-cell eQTL analysis identifies cell type-specific regulation of gene expression in peripheral blood mononuclear cells response to lipopolysaccharide in BWB.
 
+Contact: Shifang Li, Immunology-Vaccinology, FARAH, ULg. email: fruceslee@gmail.com
+
 All the statistical analyses were performed by in-house R/Python script or published tools/packages.
 
 ## 1.1 Single-cell RNA-seq analysis and cell type identification ##
