@@ -23,7 +23,7 @@ COLOC was used to identify the colocalized genes between sceQTL and clinical dis
 
 ## 1.5 Single-cell Co-expression Analysis ##
 
-To determine the co-expression profiles we used CS-CORE, which is powered by WGCNA.
+To study co-expression profiles, we used CS-CORE supported by WGCNA.
 
 ## 1.6 Replication of the identified sc-eQTL ##
 
