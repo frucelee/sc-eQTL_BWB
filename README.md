@@ -3,11 +3,11 @@ Code for the study: Single-cell eQTL analysis identifies cell type-specific regu
 
 All the statistical analyses were performed by in-house R/Python script or published tools/packages.
 
-## 1.1 Single-cell RNA-seq analysis, cell type identification, and cell status identification ##
+## 1.1 Single-cell RNA-seq analysis and cell type identification ##
 
-Single-cell analysis by Seurat; cell status identification by RNA velocity.
+Single-cell analysis by Seurat; cell type was identified by the classical marker.
 
-## 1.2 Identification of single-cell expression quantitative traits loci (sceQTL) ##
+## 1.2 Identification of single-cell expression quantitative traits loci (sceQTL) and single-cell co-expression QTL ##
 
 The eQTL of each cell type or condition was estimated using a linear model which is implemented in tensorqtl. The single-cell co-expression QTL was identified using a weighted linear model.
 
