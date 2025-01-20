@@ -25,7 +25,7 @@ MASH was applied to estimate the shared eQTL signals between each pair of eQTL s
 
 ## 1.6 Colocalization analysis ##
 
-COLOC was used to identify the shared genetic variants between sceQTL and clinical diseases. 
+COLOC was used to identify the shared genetic variants between sc-eQTL and clinical diseases. 
 
 ## 1.7 Replication of the identified sc-eQTL ##
 
