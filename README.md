@@ -13,11 +13,11 @@ Five principal component analyses (PCA) of samples were then carried out by Plin
 
 ## 1.3 sc-eQTL mapping ##
 
-A linear regression model implemented by TensorQTL was used. A linear mixed model with sparse genetic relationship matrix (GRM) implemented by fastGWA was employed.
+A linear regression model implemented by TensorQTL was used. A linear mixed model with a sparse genetic relationship matrix (GRM) implemented by fastGWA was employed.
 
 ## 1.4 Identification of content-specific eQTL ##
 
-An interaction model was employed to identify the response and TF interaction eQTLs. The mixed linear model was used to perform dynamic eQTL. 
+An interaction model was employed to identify the response and TF interaction eQTLs. RNA velocity (generalized dynamical model) and pseudotime were determined by scVelo and Slingshot, respectively. The mixed linear model was then used to perform dynamic eQTL. 
 
 ## 1.5 Estimation of shared signals ##
 
