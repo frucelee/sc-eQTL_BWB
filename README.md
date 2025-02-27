@@ -17,7 +17,7 @@ A linear regression model implemented by TensorQTL was used. A linear mixed mode
 
 ## 1.4 Identification of content-specific eQTL ##
 
-Pseudotime across monocytes was determined by Slingshot, and the mixed linear model was then used to perform dynamic eQTL. The weighted linear model was applied to perform co-expression eQTL mapping.
+Pseudotime across monocytes was determined by Slingshot, and then the mixed linear model was used to perform dynamic eQTL analysis. The weighted linear model was applied to perform co-expression eQTL mapping.
 
 ## 1.5 Estimation of shared signals ##
 
