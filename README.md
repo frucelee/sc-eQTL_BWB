@@ -30,3 +30,7 @@ COLOC was used to identify the shared genetic variants between sc-eQTL and 69 cl
 ## 1.7 Replication of the identified sc-eQTL ##
 
 To validate the identified eQTL, we checked their effect size in the public GTEx dataset.
+
+## 1.8 sc-vQTL mapping ##
+
+The intra-individual dispersion value for each gene in individuals was estimated using the Cox-Reid adjusted MLE approach, and subsequently, TensorQTL was applied to perform QTL mapping.
